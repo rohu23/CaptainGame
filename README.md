@@ -2,7 +2,7 @@ Captain Game
 
 Description
 
-Captain Game is an exciting Android game developed using Jetpack Compose. The game challenges players to navigate through treacherous waters in search of treasures while avoiding storms. Players make strategic decisions on which direction to head (North, East, West, or South) and encounter random events that can either lead to finding a treasure or hitting a storm. The goal is to find as many treasures as possible while maintaining your health points.
+Captain Game is a simple and exciting Android game developed using Jetpack Compose. The game challenges players to navigate through treacherous waters in search of treasures while avoiding storms. Players make strategic decisions on which direction to head (North, East, West, or South) and encounter random events that can either lead to finding a treasure or hitting a storm. The goal is to find as many treasures as possible while maintaining your health points.
 
 Features
 
